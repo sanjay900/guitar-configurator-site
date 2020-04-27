@@ -21,6 +21,9 @@ Click [here](./build-guide.html) for a guide on how to build an adaptor or elect
 # How to use this tool
 Click [here](./tool-guide.html) for a guide on how to use this tool
 
+# Need Help? Something not working?
+Feel free to message me on Discord, my id is sanjay900#5549.
+
 # Videos
 {% include youtube.html id=H73McH5abes %}
 
